@@ -1,44 +1,36 @@
+### Hi, I'm Harley Busa, Engineering the Future at Raijin Tech Solutions
+
 <div align="center">
 
 ![Raijin Tech Solutions banner](./banner.gif)
 
-# Hey, I'm Harley Busa — a.k.a. Raijin ⚡
+#### Full-Stack Developer
 
-**Full Stack Developer · Founder of Raijin Tech Solutions · Available for freelance work**
-
-Passionate freelance software developer with expertise in modern web technologies. I turn ideas into custom web apps, mobile apps, and digital solutions — 120+ projects delivered, 100+ satisfied clients.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-raijintech.dev-6366f1?style=flat-square)](https://raijintech.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harley--busa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harley-busa-477810300/)
-[![Facebook](https://img.shields.io/badge/Facebook-raijin.offi-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/raijin.offi)
-[![TikTok](https://img.shields.io/badge/TikTok-theonlyraijin-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@theonlyraijin)
+[![Portfolio](https://img.shields.io/badge/raijintech.dev-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raijintech.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raijinjyn1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harley-busa-477810300/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raijin.offi)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@theonlyraijin)
 
 </div>
 
 ---
 
-<div align="center">
+### About Me
 
-<table>
-<tr>
-<td><img src="./meprofessional.jpg" width="220" alt="Harley Busa professional photo"/></td>
-<td><img src="./photo.jpg" width="220" alt="Harley Busa photo"/></td>
-</tr>
-</table>
+<img src="./meprofessional.jpg" width="220" align="right" alt="Harley Busa"/>
 
-</div>
+I'm a Full-Stack Developer based in the Philippines. I specialize in building responsive web applications, mobile apps, and AI-driven automation. As a BSIT graduate (Cum Laude) from Liceo de Cagayan University, I combine solid engineering principles with modern developer workflows through my company, Raijin Tech Solutions.
 
-### ⚡ About me
+- **Education:** Bachelor of Science in Information Technology (Cum Laude, multiple Dean's Lister honors) at Liceo de Cagayan University.
+- **Founder & Lead Developer:** Building web, mobile, and enterprise software for clients under Raijin Tech Solutions — 120+ projects delivered, 100+ satisfied clients.
+- **Industries Served:** Healthcare, education, business operations, finance & retail, and field/industrial systems — from clinic management to multi-branch POS platforms.
+- **Certifications:** HackForGov 3 CTF Competition (DICT Region 10), DevFest Cagayan de Oro 2024 (GDG), TopCIT Level 3.
+- **AI & Automation:** Experienced integrating OpenAI API, on-device OCR, and automated workflows to streamline operations for clients.
 
-I've been curious about how things work since I was a kid, which led me straight into software development. I'm a BSIT graduate (Cum Laude) from Liceo de Cagayan University, and through Raijin Tech Solutions I build innovative, reliable software — from mobile and web apps to AI-driven automation — for businesses across every industry and border.
+<br clear="right"/>
 
-- 🩺 **Healthcare** — Clinic & hospital management, patient records, pharmacy POS
-- 🎓 **Education** — Student information systems, attendance monitoring, LMS
-- 🏢 **Business Ops** — POS, payroll, inventory, HRIS, document management
-- 💰 **Finance & Retail** — Billing, accounting, e-commerce, lending platforms
-- 🚚 **Field & Industrial** — Fleet & logistics, production tracking, supply chain
-
-### 📌 Featured work
+### Featured Work
 
 | Project | What it does |
 |---|---|
@@ -50,7 +42,7 @@ I've been curious about how things work since I was a kid, which led me straight
 
 More on this GitHub: [SnapScale](https://github.com/OsirisXx/SnapScale) · [attendanceapp](https://github.com/OsirisXx/attendanceapp) · [ClinicSystem](https://github.com/OsirisXx/ClinicSystem) · [portfoliov2](https://github.com/OsirisXx/portfoliov2)
 
-### 🛠️ Tech I work with
+### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -66,20 +58,11 @@ More on this GitHub: [SnapScale](https://github.com/OsirisXx/SnapScale) · [atte
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
-### 🎓 Background & recognition
+### By the Numbers
 
-- **BS Information Technology**, Liceo de Cagayan University — Cum Laude, multiple Dean's Lister semesters
-- **HackForGov 3 CTF Competition** — DICT Region 10
-- **DevFest Cagayan de Oro 2024** — Google Developer Group CDO
-- **TopCIT Level 3** certified
+**120+** projects delivered &nbsp;·&nbsp; **100+** satisfied clients &nbsp;·&nbsp; **15+** technologies mastered &nbsp;·&nbsp; **Global** reach
 
-### 📊 By the numbers
-
-**120+** projects delivered · **100+** satisfied clients · **15+** technologies mastered · **Global** reach
-
-### 📫 Let's talk
-
-Open to freelance projects and collaborations. Reach out via [raijintech.dev](https://raijintech.dev), email at `raijinjyn1@gmail.com`, or [LinkedIn](https://www.linkedin.com/in/harley-busa-477810300/). Based in the Philippines, usually replies within 24 hours.
+---
 
 <div align="center">
 

@@ -4,7 +4,7 @@
 
 ![Raijin Tech Solutions banner](./banner.gif)
 
-#### Full-Stack Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI-Assisted+Coder;Power+User;Lead+Developer;Founder)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/raijintech.dev-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raijintech.dev)
 [![Email](https://img.shields.io/badge/Business_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raijinjyn1@gmail.com)
@@ -23,8 +23,6 @@
 
 ### About Me
 
-<img src="./meprofessional.jpg" width="220" align="right" alt="Harley Busa"/>
-
 I'm a Full-Stack Developer based in the Philippines. I specialize in building responsive web applications, mobile apps, and AI-driven automation. As a BSIT graduate (Cum Laude) from Liceo de Cagayan University, I combine solid engineering principles with modern developer workflows through my company, Raijin Tech Solutions.
 
 - **Education:** Bachelor of Science in Information Technology (Cum Laude, multiple Dean's Lister honors) at Liceo de Cagayan University.
@@ -32,8 +30,6 @@ I'm a Full-Stack Developer based in the Philippines. I specialize in building re
 - **Industries Served:** Healthcare, education, business operations, finance & retail, and field/industrial systems — from clinic management to multi-branch POS platforms.
 - **Certifications:** HackForGov 3 CTF Competition (DICT Region 10), DevFest Cagayan de Oro 2024 (GDG), TopCIT Level 3.
 - **AI & Automation:** Experienced integrating OpenAI API, on-device OCR, and automated workflows to streamline operations for clients.
-
-<br clear="right"/>
 
 ### Featured Work
 

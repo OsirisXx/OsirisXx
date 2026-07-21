@@ -7,10 +7,15 @@
 #### Full-Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/raijintech.dev-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raijintech.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raijinjyn1@gmail.com)
+[![Email](https://img.shields.io/badge/Business_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raijinjyn1@gmail.com)
+[![Email](https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harleybusa82@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/639765643915)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harley-busa-477810300/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raijin.offi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haaarleh/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@theonlyraijin)
+
+**✎ᝰ ───────୨ৎ─────── NOW OPEN FOR CODING COMMISSIONS ───────୨ৎ─────── ᝰ✎**
 
 </div>
 

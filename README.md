@@ -1,5 +1,7 @@
 <div align="center">
 
+![Raijin Tech Solutions banner](./banner.gif)
+
 # Hey, I'm Harley Busa — a.k.a. Raijin ⚡
 
 **Full Stack Developer · Founder of Raijin Tech Solutions · Available for freelance work**
@@ -14,6 +16,17 @@ Passionate freelance software developer with expertise in modern web technologie
 </div>
 
 ---
+
+<div align="center">
+
+<table>
+<tr>
+<td><img src="./meprofessional.jpg" width="220" alt="Harley Busa professional photo"/></td>
+<td><img src="./photo.jpg" width="220" alt="Harley Busa photo"/></td>
+</tr>
+</table>
+
+</div>
 
 ### ⚡ About me
 

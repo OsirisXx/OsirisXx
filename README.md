@@ -31,7 +31,7 @@ I'm a Full-Stack Developer based in the Philippines. I specialize in building re
 
 ### Project Portfolio
 
-> Ordered by real-world scope and documented engineering depth within each group. I lead with the Liceo/LDCU work as requested, followed by business systems, then product, client, and earlier work.
+> Ordered by real-world scope and documented engineering depth within each group. I lead with the Liceo/LDCU work as requested, followed by business systems, then product, client, and earlier work. Some client systems are covered by non-disclosure agreements (NDAs) and therefore are not listed here.
 
 #### Liceo / LDCU Systems
 
@@ -39,7 +39,7 @@ I'm a Full-Stack Developer based in the Philippines. I specialize in building re
 |---|---|
 | [LDCU Clinic](https://github.com/OsirisXx/LDCU_Clinic) | **Medical & dental appointment platform for Liceo de Cagayan University** — multi-campus scheduling, seven-role access control, nurse assignment, audit logs, notifications, rescheduling, rate-limited sign-in, and Supabase RLS. [Live demo](https://ldcu-clinic.vercel.app) |
 | [LDCU IoT Capstone](https://github.com/OsirisXx/LDCUIOTCapstone) | **IoT classroom attendance and access-control system** — RFID instructor access, student fingerprint attendance, course/schedule management, device and room controls, analytics, and audit records. Built with React, Node/Express, MySQL, and JWT. |
-| [LabTrack — Clinical Health Sciences](https://github.com/OsirisXx/lab-release) | **Laboratory inventory and lending system** — consumables/equipment tracking, reservations, borrow/return workflows, role-based access, attendance, reports, RLE guides, and audits. |
+| [LabTrack — Clinical Health Sciences](https://github.com/OsirisXx/lab-release) | **Client project: laboratory inventory and lending system** — consumables/equipment tracking, reservations, borrow/return workflows, role-based access, attendance, reports, RLE guides, and audits. |
 | [Liceo 8888](https://github.com/OsirisXx/Liceo8888) | **University concern-management platform** — anonymous reports, reference tracking, department and VP workflows, file attachments, and an auditable resolution trail. [Live demo](https://liceo8888.vercel.app) |
 | [Liceo Event Attendance](https://github.com/OsirisXx/attendanceapp) | **Event and attendance platform** — student registration rules, semester event management, SuperAdmin dashboard, profiles, and data migrations. [Live demo](https://attendanceapp-rho.vercel.app) |
 | [LDCU Clinic v2](https://github.com/OsirisXx/LDCU-Clinic) | Parallel repository for the LDCU medical and dental system; retained as a v2/alternate implementation. |
@@ -62,11 +62,9 @@ I'm a Full-Stack Developer based in the Philippines. I specialize in building re
 
 | Project | Value & scope |
 |---|---|
-| [Sentry](https://github.com/OsirisXx/Sentry) | **Authorization-gated, non-destructive web-security scanner** — reusable Python engine and CLI, deterministic checks, redacted reports, SSRF checks, Swagger fuzzing, SPA route extraction, and 36 documented tests. |
+| [Sentry](https://github.com/OsirisXx/Sentry) | **Destructive and non-destructive web-security scanner** — reusable Python engine and CLI, deterministic checks, redacted reports, SSRF checks, Swagger fuzzing, SPA route extraction, and 36 documented tests. |
 | [Rai Email Sender](https://github.com/OsirisXx/RaiEmailSender) | **Transactional-email queue and analytics dashboard** — PostgreSQL, Google Apps Script integration, API keys, idempotency, sender/project controls, signed admin sessions, and delivery-state handling. [Live demo](https://rai-email-sender.vercel.app) |
-| [Convene](https://github.com/OsirisXx/Convene) | **Multi-tenant attendance and certificate-delivery SaaS** built with SvelteKit, Convex, and Google Workspace integrations. [Live demo](https://convene-gamma.vercel.app) |
-| [CertSaaS](https://github.com/OsirisXx/CertSaaS) | Certificate-focused SaaS repository; currently has limited public implementation details. |
-| [SnapScale](https://github.com/OsirisXx/SnapScale) | Product project; public README documentation is currently limited. |
+| [Convene](https://github.com/OsirisXx/Convene) | **Multi-tenant attendance and certificate-delivery SaaS** (formerly **CertSaaS**) built with SvelteKit, Convex, and Google Workspace integrations. [Live demo](https://convene-gamma.vercel.app) |
 | [Capstone Prototype](https://github.com/OsirisXx/CapstonePrototype) | Dart prototype repository, retained as an early mobile-development artifact. |
 
 #### Client Websites, Portfolios & Supporting Projects
@@ -167,11 +165,3 @@ These repositories remain public but are not presented as production portfolio a
 ### By the Numbers
 
 **120+** projects delivered &nbsp;·&nbsp; **100+** satisfied clients &nbsp;·&nbsp; **15+** technologies mastered &nbsp;·&nbsp; **Global** reach
-
----
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OsirisXx&show_icons=true&theme=default&hide_border=true)
-
-</div>

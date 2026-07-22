@@ -31,7 +31,7 @@ I'm a Full-Stack Developer based in the Philippines. I specialize in building re
 
 ### Project Portfolio
 
-> Ordered by real-world scope and documented engineering depth within each group. I lead with the Liceo/LDCU work as requested, followed by business systems, then product, client, and earlier work. Some client systems are covered by non-disclosure agreements (NDAs) and therefore are not listed here.
+> **Selected projects from academic, client, and product work. Some client systems are protected by NDA and are not shown publicly.**
 
 #### Liceo / LDCU Systems
 
